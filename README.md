@@ -1,2 +1,3 @@
-# VaultSphere
-Secure File Server - FastAPI
+# HPE Secure File Server
+With REST API support
+Includes Web app.
